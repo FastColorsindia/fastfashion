@@ -7,32 +7,32 @@ const GalleryPreview = () => {
   const previewImages = [
     { 
       id: 1, 
-      url: "/gallery-image1.png", 
+      url: "/DTF/5.jpg", 
       title: "Custom T-Shirt Design" 
     },
     { 
       id: 2, 
-      url: "/gallery-image2.jpg", 
+      url: "/DTF/6.jpg", 
       title: "Hoodie Print Sample" 
     },
     { 
       id: 3, 
-      url: "/gallery-image10.png", 
+      url: "/DTF/7.jpg", 
       title: "Direct to Film Print" 
     },
     { 
       id: 4, 
-      url: "/gallery-image4.jpg", 
+      url: "/DTF/8.jpg", 
       title: "Fashion Apparel" 
     },
     { 
       id: 5, 
-      url: "/gallery-image2.jpg", 
+      url: "/DTF/9.jpg", 
       title: "Custom Design Work" 
     },
     { 
       id: 6, 
-      url: "/gallery-image6.png", 
+      url: "/DTF/10.jpg", 
       title: "Print Quality Sample" 
     },
   ];

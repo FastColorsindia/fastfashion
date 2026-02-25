@@ -15,7 +15,7 @@ const Footer = () => {
               <div className="w-10 h-10 bg-accent rounded-lg flex items-center justify-center">
                 <span className="text-accent-foreground font-bold text-lg">D</span>
               </div>
-              <span className="font-display font-bold text-xl">Fastcolorfashion</span>
+              <span className="font-display font-bold text-xl">Fastcolors</span>
             </div>
             <p className="text-primary-foreground/70 text-sm">
               Premium Direct to Film printing services in India. Quality prints that last with vibrant colors and durable finish.
@@ -94,7 +94,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-primary-foreground/10 pt-8 text-center text-sm text-primary-foreground/50">
-          <p>© {new Date().getFullYear()} Fastcolorfashion. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Fastcolorsfashion. All rights reserved.</p>
         </div>
       </div>
     </footer>

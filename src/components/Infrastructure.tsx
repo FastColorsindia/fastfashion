@@ -8,7 +8,7 @@ const Infrastructure = () => {
       title: 'Advanced Printing Technology',
       description: 'State-of-the-art DTF printers capable of producing high-resolution, vibrant prints on various fabrics.',
       icon: Monitor,
-      image: 'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=400&q=80',
+      image: '/DTF-1.jpg',
     },
     {
       title: 'Professional Workspace',
@@ -26,7 +26,7 @@ const Infrastructure = () => {
       title: 'High-Performance Computers',
       description: 'Powerful workstations for design processing and print management software.',
       icon: Cpu,
-      image: 'https://images.unsplash.com/photo-1518709268805-4e9042af2176?w=400&q=80',
+      image: 'DTF-2.jpg',
     },
   ];
 

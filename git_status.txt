@@ -1,0 +1,45 @@
+﻿On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   index.html
+	modified:   package-lock.json
+	deleted:    public/gallery-image1.png
+	deleted:    public/gallery-image10.png
+	deleted:    public/gallery-image12.png
+	deleted:    public/gallery-image13.png
+	deleted:    public/gallery-image14.png
+	deleted:    public/gallery-image15.png
+	deleted:    public/gallery-image16.png
+	deleted:    public/gallery-image17.png
+	deleted:    public/gallery-image18.png
+	deleted:    public/gallery-image19.png
+	deleted:    public/gallery-image2.jpg
+	deleted:    public/gallery-image20.png
+	deleted:    public/gallery-image21.png
+	deleted:    public/gallery-image22.png
+	deleted:    public/gallery-image23.png
+	deleted:    public/gallery-image4.jpg
+	deleted:    public/gallery-image6.png
+	deleted:    public/gallery-image8.png
+	deleted:    public/gallery-image9.png
+	modified:   src/components/Footer.tsx
+	modified:   src/components/Gallery.tsx
+	modified:   src/components/GalleryPreview.tsx
+	modified:   src/components/Hero.tsx
+	modified:   src/components/Infrastructure.tsx
+	modified:   src/components/Navbar.tsx
+	modified:   src/components/OrderForm.tsx
+	modified:   src/index.css
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_status.txt
+	public/DTF-1.jpg
+	public/DTF-2.jpg
+	public/DTF/
+	src/hooks/useScrollToSection.ts
+
+no changes added to commit (use "git add" and/or "git commit -a")
