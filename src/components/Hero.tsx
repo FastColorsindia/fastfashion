@@ -23,7 +23,7 @@ const Hero = () => {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat transition-transform duration-100 ease-out"
         style={{
-          backgroundImage: `url('https://ajaxexport.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-6.50.52-PM-1.jpeg?w=1920&q=80')`,
+          backgroundImage: `url('https://ajaxexport.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-13-at-6.50.52-PM-1.jpeg')`,
           transform: `translateY(${scrollY * 0.5}px) scale(1.1)`,
         }}
       >
