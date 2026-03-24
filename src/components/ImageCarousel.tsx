@@ -4,25 +4,22 @@ import { Button } from "@/components/ui/button";
 
 const images = [
   {
-    url: "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=800&q=80",
+    url: "https://ajaxexport.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-11.41.18-AM.jpeg?w=800&q=80",
     title: "Custom T-Shirt Prints",
   },
   {
-    url: "https://images.unsplash.com/photo-1503342217505-b0a15ec3261c?w=800&q=80",
+    url: "https://ajaxexport.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-11.54.13-AM.jpeg?w=800&q=80",
     title: "Hoodie Designs",
   },
   {
-    url: "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=800&q=80",
+    url: "https://ajaxexport.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-12.59.23-PM.jpeg?w=800&q=80",
     title: "Vibrant Colors",
   },
   {
-    url: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&q=80",
+    url: "https://ajaxexport.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-1.25.45-PM.jpeg?w=800&q=80",
     title: "Detailed Artwork",
   },
-  {
-    url: "https://images.unsplash.com/photo-1618354691373-d851c5c3a990?w=800&q=80",
-    title: "Premium Quality",
-  },
+  
 ];
 
 const ImageCarousel = () => {
