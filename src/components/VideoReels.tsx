@@ -3,26 +3,21 @@ import { useState } from "react";
 
 const videos = [
   {
-    thumbnail: "https://images.unsplash.com/photo-1558171813-4c088753af8f?w=400&q=80",
-    title: "DTF Printing Process",
-    duration: "2:45",
+    thumbnail: "https://ajaxexport.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-3.55.01-PM.jpeg?w=400&q=80",
+    title: "We Export Globally",
+    
   },
   {
-    thumbnail: "https://images.unsplash.com/photo-1574634534894-89d7576c8259?w=400&q=80",
-    title: "Color Matching Guide",
-    duration: "3:12",
+    thumbnail: "https://ajaxexport.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-4.17.34-PM.jpeg?w=400&q=80",
+    title: "Quality through Excellance",
+    
   },
   {
-    thumbnail: "https://images.unsplash.com/photo-1556905055-8f358a7a47b2?w=400&q=80",
-    title: "Heat Transfer Tips",
-    duration: "4:30",
+    thumbnail: "https://ajaxexport.com/wp-content/uploads/2026/03/WhatsApp-Image-2026-03-16-at-5.01.14-PM.jpeg?w=400&q=80",
+    title: "Eco Friendly Garment Materials",
+    
   },
-  {
-    thumbnail: "https://images.unsplash.com/photo-1489987707025-afc232f7ea0f?w=400&q=80",
-    title: "Material Selection",
-    duration: "2:18",
-    instagramUrl: "https://www.instagram.com/reel/DQ_M02eE6N2/",
-  },
+  
 ];
 
 const VideoReels = () => {
@@ -32,7 +27,7 @@ const VideoReels = () => {
     <section className="py-20 bg-secondary/30">
       <div className="container">
         <div className="text-center mb-12">
-          <h2 className="text-fluid-h2 font-bold mb-4">Watch & Learn</h2>
+          <h2 className="text-fluid-h2 font-bold mb-4">Explore & Learn</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto text-fluid-p">
             Explore our process and see how we create stunning prints
           </p>
